@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Storefront_Customer_Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9669bb67-cf1e-47d5-b47e-8ef8affbd4bd</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>0d4c1b0c-6e76-4883-85f9-b530c821747e</id>
+      <masked>true</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>8d0adb31-2152-4b11-9c98-1221594364b4</id>
+      <masked>true</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>

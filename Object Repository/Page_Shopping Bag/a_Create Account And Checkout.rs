@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Account And Checkout</name>
+   <tag></tag>
+   <elementGuidId>cb500105-605c-46a3-be11-f787c2f59ed9</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:setPageLocation('https://qal.beautypie.com/UserRegistrationForm?myAcctMain=1&amp;postRegisterURL=https%3A%2F%2Fqal.beautypie.com%2FRESTOrderCalculate%3FupdatePrices%3D1%26doConfigurationValidation%3DY%26calculationUsageId%3D-1%26errorViewName%3DAjaxOrderItemDisplayView%26catalogId%3D10001%26langId%3D-1000%26URL%3Dhttps%253A%252F%252Fqal.beautypie.com%252FAjaxOrderItemDisplayView%26storeId%3D10151%26orderId%3D.&amp;store=bpuk&amp;catalogId=10001&amp;langId=&amp;storeId=10151&amp;registerNew=Y')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--block mar-b-30</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Create Account And Checkout
+					</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AjaxLogon&quot;)/div[@class=&quot;shopcart-logged-out&quot;]/div[@class=&quot;shopcart-logged-out__col shopcart-logged-out__right-col&quot;]/div[2]/a[@class=&quot;btn btn--block mar-b-30&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

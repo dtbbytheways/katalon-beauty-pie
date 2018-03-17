@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Is QAL access working?</description>
+   <name>QAL Access test</name>
+   <tag>TestTest</tag>
+   <comment></comment>
+   <testCaseGuid>dece15dd-bb47-4c52-8119-7e6b7ceab3a9</testCaseGuid>
+</TestCaseEntity>

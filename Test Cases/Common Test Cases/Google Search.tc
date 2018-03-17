@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for BBC and select site</description>
+   <name>Google Search</name>
+   <tag>TestTest</tag>
+   <comment></comment>
+   <testCaseGuid>48b108b5-c843-460a-af72-04ac175833a7</testCaseGuid>
+</TestCaseEntity>
